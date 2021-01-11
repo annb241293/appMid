@@ -1,0 +1,6 @@
+module Pods_odootoancau {
+  umbrella header "Pods-odootoancau-umbrella.h"
+
+  export *
+  module * { export * }
+}

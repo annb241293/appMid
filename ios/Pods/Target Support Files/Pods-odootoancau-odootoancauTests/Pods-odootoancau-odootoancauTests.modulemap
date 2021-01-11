@@ -1,0 +1,6 @@
+module Pods_odootoancau_odootoancauTests {
+  umbrella header "Pods-odootoancau-odootoancauTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
